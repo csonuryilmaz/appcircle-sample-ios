@@ -14,4 +14,3 @@ struct AppcircleApp: App {
             ContentView()
         }
     }
-}
